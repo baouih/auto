@@ -1,0 +1,165 @@
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.AssemblyReference.cache
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.SuggestedBindingRedirects.cache
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.Properties.Resources.resources
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.GenerateResource.cache
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.CoreCompileInputs.cache
+E:\giaodienquay\giaodienquay\bin\Debug\GameQuay.exe.config
+E:\giaodienquay\giaodienquay\bin\Debug\GameQuay.exe
+E:\giaodienquay\giaodienquay\bin\Debug\GameQuay.pdb
+E:\giaodienquay\giaodienquay\bin\Debug\Guna.UI2.dll
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_Home.resources
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.form_login.resources
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_Setting.resources
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_setting_thu.resources
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_setting_xe.resources
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.Main.resources
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.CopyComplete
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.exe
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.pdb
+E:\giaodienquay\giaodienquay\bin\Debug\KAutoHelper.dll
+E:\giaodienquay\giaodienquay\bin\Debug\Emgu.CV.World.dll
+E:\giaodienquay\giaodienquay\bin\Debug\KAutoHelper.pdb
+E:\giaodienquay\giaodienquay\bin\Debug\KAutoHelper.dll.config
+E:\giaodienquay\giaodienquay\bin\Debug\Emgu.CV.World.xml
+E:\giaodienquay\giaodienquay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\giaodienquay\giaodienquay\bin\Debug\System.Buffers.dll
+E:\giaodienquay\giaodienquay\bin\Debug\System.Memory.dll
+E:\giaodienquay\giaodienquay\bin\Debug\System.Numerics.Vectors.dll
+E:\giaodienquay\giaodienquay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\giaodienquay\giaodienquay\bin\Debug\System.Text.Encodings.Web.dll
+E:\giaodienquay\giaodienquay\bin\Debug\System.Text.Json.dll
+E:\giaodienquay\giaodienquay\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\giaodienquay\giaodienquay\bin\Debug\System.ValueTuple.dll
+E:\giaodienquay\giaodienquay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\giaodienquay\giaodienquay\bin\Debug\System.Buffers.xml
+E:\giaodienquay\giaodienquay\bin\Debug\System.Memory.xml
+E:\giaodienquay\giaodienquay\bin\Debug\System.Numerics.Vectors.xml
+E:\giaodienquay\giaodienquay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\giaodienquay\giaodienquay\bin\Debug\System.Text.Encodings.Web.xml
+E:\giaodienquay\giaodienquay\bin\Debug\System.Text.Json.xml
+E:\giaodienquay\giaodienquay\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\giaodienquay\giaodienquay\bin\Debug\System.ValueTuple.xml
+E:\giaodienquay\giaodienquay\obj\Debug\GameQuay.exe.config
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.AssemblyReference.cache
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.SuggestedBindingRedirects.cache
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.exe.config
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_Home.resources
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.form_login.resources
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_Setting.resources
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_setting_thu.resources
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_setting_xe.resources
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.Main.resources
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.Properties.Resources.resources
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.GenerateResource.cache
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.CoreCompileInputs.cache
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.exe
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.pdb
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\GameQuay.exe.config
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\GameQuay.exe
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\GameQuay.pdb
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\Guna.UI2.dll
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.Buffers.dll
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.Memory.dll
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.Numerics.Vectors.dll
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.Text.Encodings.Web.dll
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.Text.Json.dll
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.ValueTuple.dll
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\Emgu.CV.World.dll
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\KAutoHelper.pdb
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\KAutoHelper.dll.config
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.Buffers.xml
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.Memory.xml
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.Numerics.Vectors.xml
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.Text.Encodings.Web.xml
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.Text.Json.xml
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\System.ValueTuple.xml
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\bin\Debug\Emgu.CV.World.xml
+D:\giaodienquay-20230911T142609Z-001\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.CopyComplete
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\GameQuay.exe.config
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\GameQuay.exe
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\GameQuay.pdb
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\KAutoHelper.dll
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\Emgu.CV.World.dll
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\Emgu.CV.World.xml
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.exe.config
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_Home.resources
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.form_login.resources
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_Setting.resources
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_setting_thu.resources
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_setting_xe.resources
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.Main.resources
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.Properties.Resources.resources
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.CopyComplete
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.exe
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.pdb
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\bin\Debug\FoxLearn.License.dll
+C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_setting_LD.resources
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\GameQuay.exe.config
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\GameQuay.exe
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\GameQuay.pdb
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\Guna.UI2.dll
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.Buffers.dll
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.Memory.dll
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.Numerics.Vectors.dll
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.Text.Encodings.Web.dll
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.Text.Json.dll
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.ValueTuple.dll
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\Emgu.CV.World.dll
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.Buffers.xml
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.Memory.xml
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.Numerics.Vectors.xml
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.Text.Encodings.Web.xml
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.Text.Json.xml
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\System.ValueTuple.xml
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\bin\Debug\Emgu.CV.World.xml
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.AssemblyReference.cache
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.SuggestedBindingRedirects.cache
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.exe.config
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_Home.resources
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.form_login.resources
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_Setting.resources
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_setting_LD.resources
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_setting_thu.resources
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.Form_setting_xe.resources
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.Main.resources
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.Properties.Resources.resources
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.GenerateResource.cache
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.CoreCompileInputs.cache
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.csproj.CopyComplete
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.exe
+D:\giaodienquay 21OCT\giaodienquay\giaodienquay\obj\Debug\GameQuay.pdb

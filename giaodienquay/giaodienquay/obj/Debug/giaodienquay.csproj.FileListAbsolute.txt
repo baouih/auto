@@ -1,0 +1,30 @@
+C:\Users\Admin\source\repos\giaodienquay\giaodienquay\bin\Debug\giaodienquay.exe.config
+C:\Users\Admin\source\repos\giaodienquay\giaodienquay\bin\Debug\giaodienquay.exe
+C:\Users\Admin\source\repos\giaodienquay\giaodienquay\bin\Debug\giaodienquay.pdb
+C:\Users\Admin\source\repos\giaodienquay\giaodienquay\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\giaodienquay\giaodienquay\obj\Debug\giaodienquay.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\giaodienquay\giaodienquay\obj\Debug\giaodienquay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\giaodienquay\giaodienquay\obj\Debug\giaodienquay.Form1.resources
+C:\Users\Admin\source\repos\giaodienquay\giaodienquay\obj\Debug\giaodienquay.Properties.Resources.resources
+C:\Users\Admin\source\repos\giaodienquay\giaodienquay\obj\Debug\giaodienquay.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\giaodienquay\giaodienquay\obj\Debug\giaodienquay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\giaodienquay\giaodienquay\obj\Debug\giaodienquay.csproj.CopyComplete
+C:\Users\Admin\source\repos\giaodienquay\giaodienquay\obj\Debug\giaodienquay.exe
+C:\Users\Admin\source\repos\giaodienquay\giaodienquay\obj\Debug\giaodienquay.pdb
+G:\My Drive\giaodienquay\giaodienquay\bin\Debug\giaodienquay.exe.config
+G:\My Drive\giaodienquay\giaodienquay\bin\Debug\giaodienquay.exe
+G:\My Drive\giaodienquay\giaodienquay\bin\Debug\giaodienquay.pdb
+G:\My Drive\giaodienquay\giaodienquay\bin\Debug\Guna.UI2.dll
+G:\My Drive\giaodienquay\giaodienquay\obj\Debug\giaodienquay.csproj.AssemblyReference.cache
+G:\My Drive\giaodienquay\giaodienquay\obj\Debug\giaodienquay.form_login.resources
+G:\My Drive\giaodienquay\giaodienquay\obj\Debug\giaodienquay.Main.resources
+G:\My Drive\giaodienquay\giaodienquay\obj\Debug\giaodienquay.Properties.Resources.resources
+G:\My Drive\giaodienquay\giaodienquay\obj\Debug\giaodienquay.csproj.GenerateResource.cache
+G:\My Drive\giaodienquay\giaodienquay\obj\Debug\giaodienquay.csproj.CoreCompileInputs.cache
+G:\My Drive\giaodienquay\giaodienquay\obj\Debug\giaodienquay.csproj.CopyComplete
+G:\My Drive\giaodienquay\giaodienquay\obj\Debug\giaodienquay.exe
+G:\My Drive\giaodienquay\giaodienquay\obj\Debug\giaodienquay.pdb
+G:\My Drive\giaodienquay\giaodienquay\obj\Debug\giaodienquay.Form_Home.resources
+G:\My Drive\giaodienquay\giaodienquay\obj\Debug\giaodienquay.Form_Setting.resources
+G:\My Drive\giaodienquay\giaodienquay\obj\Debug\giaodienquay.Form_setting_thu.resources
+G:\My Drive\giaodienquay\giaodienquay\obj\Debug\giaodienquay.Form_setting_xe.resources

@@ -1,0 +1,6 @@
+<project outputDir="C:\Users\Admin\Downloads\giaodienquayy\giaodienquay\Confused" baseDir="C:\Users\Admin\Downloads\giaodienquayy\giaodienquay" seed="SH" xmlns="http://confuser.codeplex.com">
+  <packer id="compressor" />
+  <module path="giaodienquay\bin\Debug\GameQuay.exe">
+    <rule pattern="true" inherit="false" />
+  </module>
+</project>
